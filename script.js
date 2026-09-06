@@ -141,3 +141,15 @@ console.log("Current age: "+currentAge);
 console.log("Estimated Maximum Age: "+maxAge);
 console.log("Amount of snacks per day: "+amountPerDay);
 console.log("You will need "+totalSnacks+" "+favoriteSnack+" to last you until the ripe old age of "+maxAge);
+
+
+
+
+
+
+
+
+
+
+
+
